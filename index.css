@@ -1,0 +1,20 @@
+#your_tests.td {
+  padding: 20px;
+  color: #333;
+  border-spacing: 10px;
+  border-collapse: separate;
+}
+
+#your_tests, #add_test {
+  margin: 50px;
+}
+
+#add_test label {
+  width: 150px;
+}
+
+#add_test input {
+  width: 200px;
+}
+
+
